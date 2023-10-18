@@ -108,16 +108,14 @@ stop (int): The ending integer for the range.
 #### Returns:
 list: A list of the differences between the prime numbers within the inclusive range from 'start' to 'stop'.<br>
 None: If 'start' or 'stop' is less than or equal to 0.
-### modifyPrime(operation, operand, stop, start=1):
-Modifies an array of prime numbers using the specified operation and operand.
+### modifyValues(array, operation, operand):
+Modifies an array using the specified 'operation' and 'operand' values.
 #### Arguments:
+array (arr): An array of integer values.
 operation (str): The operation to perform on the prime numbers within the range. Valid values are "multiply" or "*", "divide" or "/", "subtract" or "-", "add" or "+", and "exponent" or "^".<br>
 operand (int, float or expression): The value to use as the operand for the specified operation.<br>
-stop (int): The ending integer for the range.<br>
-start (int, optional): The starting integer for the range. Defaults to 1.
 #### Returns:
-list: A list of prime numbers within the specified range after applying the specified 'operation' and 'operand'.<br>
-None: If 'start' or 'stop' is less than or equal to 0.
+list: A list of integers after applying the specified 'operation' and 'operand'.
 ### randomRange(start, stop, length):
 Generates a random selection of prime numbers within the inclusive range from 'start' to 'stop'.
 #### Arguments:
