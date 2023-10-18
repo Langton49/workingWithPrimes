@@ -9,8 +9,6 @@ A simple Python module for working with prime numbers, created by Munashe Mukwey
 - [Installation](#installation)
 - [Usage](#usage)
 - [Functions](#functions)
-- [Examples](#examples)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
