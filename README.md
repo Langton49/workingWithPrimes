@@ -29,7 +29,6 @@ You can install this module using pip:
 
 ```
 pip install wwp
-
 ```
 
 ## Usage
@@ -38,7 +37,6 @@ To use this module, import it in your Python script:
 
 ```
 import wwp
-
 ```
 
 Then you can use the functions provided in the module
