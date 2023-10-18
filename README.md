@@ -61,5 +61,5 @@ Then you can use the functions provided in the module
 
 ## License
 
-This project is licensed under the [MIT License](wwp/LICENSE.txt) - see the [LICENSE](wwp/LICENSE.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE](wwp/LICENSE.txt) file for details.
 
