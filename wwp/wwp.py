@@ -62,7 +62,7 @@ def firstNPrimes(n):
 
 def isPrime(n):
     '''
-    Checks whether 'n' is a prime number or not.
+    Returns True if 'n' is prime and False if it is not.
 
     Args:
         n (int): The number to check for primality.
