@@ -30,7 +30,7 @@ A simple Python module for working with prime numbers, created by Munashe Mukwey
 
 ## Introduction
 
-This Python module provides a collection of functions for visualizing and performing various operations with prime numbers. It is a simple tool for mathematical analysis and educational purposes.
+This Python module provides a collection of functions for visualizing and performing operations with prime numbers. It is a simple tool for mathematical analysis and educational purposes.
 
 ## Features
 
@@ -193,5 +193,5 @@ dotSize (int, optional): The size of dots representing the differences. Defaults
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](wwp/LICENSE.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE](workingWithPrimes/LICENSE.txt) file for details.
 
