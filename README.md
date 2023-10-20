@@ -26,6 +26,7 @@ A simple Python module for working with prime numbers, created by Munashe Mukwey
   - [graphPrimes(stop, operation, operand, start)](#graphprimesstop-operation-operand-start)
   - [sacksSpiral(n, coordinateRange, dotSize)](#sacksspiraln-coordinaterange-dotsize)
   - [differenceSpiral(n, coordinateRange, dotSize)](#differencespiraln-coordinaterange-dotsize)
+- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
