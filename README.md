@@ -197,6 +197,12 @@ dotSize (int, optional): The size of dots representing the differences. Defaults
 **Returns**:<br>
  This function doesn't return any value; it generates and displays a graph.
 
+## Contributing
+
+If you wish to change or add something to the module you are welcome to. Just fork the repository, make your changes, create a pull request and wait for approval. 
+
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](workingWithPrimes/LICENSE.txt) file for details.
