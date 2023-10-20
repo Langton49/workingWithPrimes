@@ -51,13 +51,19 @@ pip install wwp
 
 ## Usage
 
-To use this module, import it in your Python script:
+To use this module, you can import all functions...
 
 ```
-import wwp
+from wwp import *
 ```
 
-Then you can use the functions provided in the module
+...or specific functions
+
+```
+from wwp import _function_name_
+```
+
+Then you can use the function/s provided in the module
 
 ## Functions
 
